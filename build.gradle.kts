@@ -31,5 +31,5 @@ dependencies {
 
 application {
     // Define the main class for the application
-    mainClassName = "demo.akka.kotlin.AppKt"
+    mainClassName = "main.kotlin.demo.akka.kotlin.AppKt"
 }

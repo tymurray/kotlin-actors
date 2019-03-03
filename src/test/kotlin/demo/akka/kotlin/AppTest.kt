@@ -3,6 +3,7 @@
  */
 package demo.akka.kotlin
 
+import main.kotlin.demo.akka.kotlin.App
 import kotlin.test.Test
 import kotlin.test.assertNotNull
 

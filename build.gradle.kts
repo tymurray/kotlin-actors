@@ -19,6 +19,10 @@ repositories {
 }
 
 dependencies {
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.1.1")
+
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.1.1")
+
     // Use the Kotlin JDK 8 standard library
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 
